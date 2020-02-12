@@ -19,7 +19,7 @@ const data = {
   work: chalk.white("Fullstack Developer"),
   github: chalk.cyan("https://github.com/motokikasai"),
   linkedin: chalk.cyan("https://www.linkedin.com/in/motoki-kasai-82175171/"),
-  npx: chalk.white("npx natterstefan"),
+  npx: chalk.white("npx motokikasai"),
   labelWork: chalk.white.bold("      Work:"),
   labelGitHub: chalk.white.bold("    GitHub:"),
   labelLinkedIn: chalk.white.bold("  LinkedIn:"),
