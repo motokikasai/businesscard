@@ -1,9 +1,9 @@
-It's me, Stefan!
+It's me, Motoki!
 
 # Usage
 
 ```bash
-npx natterstefan
+npx motokikasai
 ```
 
 # Credit
