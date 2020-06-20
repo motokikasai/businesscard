@@ -9,7 +9,7 @@ const boxen = require("boxen");
 const options = {
   padding: 1,
   margin: 1,
-  borderStyle: "round"
+  borderStyle: "round",
 };
 
 // Text + chalk definitions
@@ -18,12 +18,12 @@ const data = {
   handle: chalk.cyan("motokikasai"),
   work: chalk.white("Fullstack Developer"),
   github: chalk.cyan("https://github.com/motokikasai"),
-  linkedin: chalk.cyan("https://www.linkedin.com/in/motoki-kasai-82175171/"),
+  linkedin: chalk.cyan("https://www.linkedin.com/in/motoki-kasai/"),
   npx: chalk.white("npx motokikasai"),
   labelWork: chalk.white.bold("      Work:"),
   labelGitHub: chalk.white.bold("    GitHub:"),
   labelLinkedIn: chalk.white.bold("  LinkedIn:"),
-  labelCard: chalk.white.bold("      Card:")
+  labelCard: chalk.white.bold("      Card:"),
 };
 
 // Actual strings we're going to output
