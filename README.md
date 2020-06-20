@@ -1,5 +1,3 @@
-It's me, Motoki!
-
 # Usage
 
 ```bash
