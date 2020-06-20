@@ -1,6 +1,6 @@
 {
   "name": "motokikasai",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "Motoki Kasai's business card",
   "main": "./bin/card.js",
   "bin": {
