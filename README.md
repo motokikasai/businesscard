@@ -1,7 +1,8 @@
-<h1 align="center">⛩ My NPM Business Card 🙇‍♂️</h1>
+<h1 align="center">⛩ My <img src="./assets/logo-tpl-npm.png" width="60px"> Business Card 🙇‍♂️</h1>
 
 <p align="center">
   <img src="./assets/20200621-npm-business-card.png" width="600px">
+  
 </p>
 
 # Usage
